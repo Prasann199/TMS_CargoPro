@@ -32,7 +32,6 @@ The application focuses on managing transporters, trucks, bookings, and availabi
 **📌 Postman Collection:**
 👉 https://www.postman.com/prasannmk/tms/collection/7czd225/transportmanagementsystem-tms?action=share&creator=32850653
 
-*(Replace MENTION_ACCESS_KEY_HERE with your public Postman access key if you want others to access it.)*
 
 **🧪 Testing Documentation**
 
