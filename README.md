@@ -30,7 +30,7 @@ The application focuses on managing transporters, trucks, bookings, and availabi
  All APIs have been thoroughly documented using Postman.
 
 **📌 Postman Collection:**
-👉 https://api.postman.com/collections/32850653-b2dccf94-268e-4b12-84fa-5523098add54?access_key=MENTION_ACCESS_KEY_HERE
+👉 https://www.postman.com/prasannmk/tms/collection/7czd225/transportmanagementsystem-tms?action=share&creator=32850653
 
 *(Replace MENTION_ACCESS_KEY_HERE with your public Postman access key if you want others to access it.)*
 
