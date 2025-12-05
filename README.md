@@ -1,6 +1,5 @@
 # Transport Management System
-**This project is task provided by reputed compnay as a hiring process.While working on this project i learned lot of things. it polished some of basic skills to advance level.
-Thank you Hiring team for providing industry level experience in the hiring process.**
+**This project is task provided by reputed compnay as a hiring process. While working on this project i learned lot of things. Thank you Hiring team for providing industry level experience in the hiring process.**
 
 **Database schema Diagram is stored in resources static folder.**
 **Database schema:** https://github.com/Prasann199/TMS_CargoPro/blob/4408c07cef91e1f8f4ca43271743f20b462e3787/TransportManagementSystem/src/main/resources/static/tms-db-schema.png
